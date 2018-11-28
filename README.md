@@ -1,6 +1,9 @@
 
+# A learning repo for kotlin
 
-# As a DSL
+This is a personal record of learning kotlin. 
+
+## Creating a DSL
 https://www.youtube.com/watch?v=3K3oQ22nqfo&t=2702s
 
 
